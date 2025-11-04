@@ -2,9 +2,9 @@
 <section id="speakers" class="py-20 transition-colors duration-300">
     <div class="container mx-auto px-6">
         <div class="text-center mb-16">
-            <h2 class="text-3xl md:text-4xl font-display font-bold mb-4">Our Call For Speakers is Open Until October 31, 2025</h2>
+            <h2 class="text-3xl md:text-4xl font-display font-bold mb-4">Our Call For Speakers is Open Until November 30, 2025</h2>
             <p class="text-gray-600 dark:text-slate-300 max-w-2xl mx-auto">
-                Help us shape the future of PHP by sharing your knowledge and expertise. Whether you're a seasoned speaker or new to the stage, we welcome your proposals on topics that inspire and educate.
+                Help us shape the future of JavaScript by sharing your knowledge and expertise. Whether you're a seasoned speaker or new to the stage, we welcome your proposals on topics that inspire and educate.
             </p>
         </div>
 
@@ -43,9 +43,9 @@
 
         <div class="flex flex-col sm:flex-row gap-4">
             <div class="text-center mx-auto flex flex-col sm:flex-row gap-4">
-                <a href="https://sessionize.com/php-tek-2026/"
+                <a href="https://sessionize.com/js-tek-2026/"
                    class="bg-tek-orange-900 dark:bg-tek-orange-600 text-white px-6 py-3 rounded-lg text-center font-medium hover:bg-tek-orange-800 dark:hover:bg-tek-orange-700 transition-all">
-                    Submit Your Proposal to Speak at PHP Tek 2026
+                    Submit Your Proposal to Speak at JS TEK 2026
                 </a>
             </div>
         </div>

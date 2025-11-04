@@ -11,7 +11,7 @@
             <div class="text-center mb-12">
                 <h2 class="text-3xl md:text-4xl font-display font-bold mb-4">Register Now</h2>
                 <p class="text-gray-600 dark:text-slate-300 max-w-2xl mx-auto">
-                    Secure your spot at PHP Tek 2026 and join the PHP community for an unforgettable experience.
+                    Secure your spot at JS TEK 2026 and join the JavaScript community for an unforgettable experience.
                 </p>
             </div>
 

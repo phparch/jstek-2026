@@ -14,9 +14,9 @@
         <div class="flex items-center justify-between">
             <div class="flex items-center">
                 <a href="#" class="flex items-center">
-                    <img src="https://cdn.phparch.social/phptek2026/logos/phptek_2026_logo.svg" alt="PHP Tek 2026 Logo"
+                    <img src="https://cdn.phparch.social/phptek2026/logos/phptek_2026_logo.svg" alt="JS TEK 2026 Logo"
                          class="h-10 w-10 mr-3">
-                    <span class="text-3xl font-display font-bold text-tek-blue-800 dark:text-tek-blue-400">PHPTek</span>
+                    <span class="text-3xl font-display font-bold text-tek-blue-800 dark:text-tek-blue-400">JSTek</span>
                     <span
                         class="ml-1 bg-tek-orange-900 dark:bg-tek-orange-600 text-white text-sm font-bold py-1 px-2 rounded">2026</span>
                 </a>

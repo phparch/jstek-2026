@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-This is a Laravel-based conference website for PHP Tek 2026, built with:
+This is a Laravel-based conference website for JS TEK 2026, built with:
 - **Laravel 12.x** with **Livewire** for dynamic components
 - **Livewire Volt** for component-based views
 - **Livewire Flux** for UI components

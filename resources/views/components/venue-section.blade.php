@@ -5,7 +5,7 @@
             <div>
                 <h2 class="text-3xl md:text-4xl font-display font-bold mb-6">Conference Venue</h2>
                 <p class="text-gray-600 dark:text-slate-300 mb-6">
-                    PHP Tek 2026 will be returning to Chicago and the Sheraton O’Hare Hotel. This hotel is conveniently
+                    JS TEK 2026 will be returning to Chicago and the Sheraton O'Hare Hotel. This hotel is conveniently
                     located by the airport and offers a complimentary airport shuttle.
                 </p>
 

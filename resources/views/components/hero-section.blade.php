@@ -11,14 +11,14 @@
                         {{ $conference ? $conference->getFormattedDateRange() : 'May 19-21, 2026' }}
                     </span>
                     <h1 class="text-4xl md:text-5xl lg:text-6xl font-display font-bold leading-tight">
-                        The Premier <span class="text-tek-orange-900 dark:text-tek-orange-400">PHP</span> Conference of
+                        The Premier <span class="text-tek-orange-900 dark:text-tek-orange-400">JavaScript</span> Conference of
                         2026
                     </h1>
                 </div>
                 <p class="text-gray-600 dark:text-slate-300 text-lg md:text-xl max-w-xl">
                     Join us for 3 days of multiple track expert-led sessions, hands-on workshops, and unparalleled
                     networking
-                    opportunities with the PHP community.
+                    opportunities with the JavaScript community.
                 </p>
                 <div class="flex flex-col sm:flex-row gap-4">
                     <a href="#register"
@@ -58,7 +58,7 @@
                 <div
                     class="absolute -bottom-10 -left-10 w-72 h-72 bg-tek-orange-200/60 dark:bg-tek-orange-800/20 rounded-full filter blur-3xl opacity-80 dark:opacity-70"></div>
                 <img src="https://cdn.phparch.social/phptek2026/images/phptek-audience.jpg"
-                     alt="PHP Tek Conference"
+                     alt="JS TEK Conference"
                      class="rounded-2xl shadow-2xl relative z-10 transform hover:-translate-y-2 transition-transform duration-300">
             </div>
         </div>

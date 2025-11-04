@@ -5,12 +5,12 @@
         <div class="grid grid-cols-1 md:grid-cols-4 gap-8">
             <div class="md:col-span-1">
                 <a href="#" class="flex items-center mb-4">
-                    <span class="text-2xl font-display font-bold text-tek-blue-800 dark:text-tek-blue-400">PHPTek</span>
+                    <span class="text-2xl font-display font-bold text-tek-blue-800 dark:text-tek-blue-400">JSTek</span>
                     <span
                         class="ml-1 bg-tek-orange-900 dark:bg-tek-orange-600 text-white text-xs font-bold py-1 px-2 rounded">2026</span>
                 </a>
                 <p class="text-gray-600 dark:text-slate-300 text-sm mb-6">
-                    The premier PHP conference of 2026, bringing together developers, experts, and community leaders.
+                    The premier JavaScript conference of 2026, bringing together developers, experts, and community leaders.
                 </p>
                 <div class="flex space-x-4">
                     <a href="https://x.com/phptek"
@@ -158,7 +158,7 @@
         <div
             class="border-t border-gray-200 dark:border-slate-600 mt-10 pt-6 flex flex-col md:flex-row justify-between items-center">
             <p class="text-gray-600 dark:text-slate-300 text-sm">
-                &copy; {{ date('Y') }} PHP Tek Conference. All rights reserved.
+                &copy; {{ date('Y') }} JS TEK Conference. All rights reserved.
             </p>
             <div class="mt-4 md:mt-0 flex space-x-6">
                 <button type="button"

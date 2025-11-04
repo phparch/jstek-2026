@@ -4,7 +4,7 @@
         <div class="text-center mb-16">
             <h2 class="text-3xl md:text-4xl font-display font-bold mb-4">Meet Our Speakers</h2>
             <p class="text-gray-600 dark:text-slate-300 max-w-2xl mx-auto">
-                Learn from the brightest minds in the PHP ecosystem and beyond.
+                Learn from the brightest minds in the JavaScript ecosystem and beyond.
             </p>
         </div>
 
@@ -16,16 +16,16 @@
                     <div class="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/70 to-transparent p-4">
                         <div class="text-white">
                             <h3 class="font-bold text-lg">Sarah Johnson</h3>
-                            <p class="text-sm text-gray-200">Laravel Core Team</p>
+                            <p class="text-sm text-gray-200">React Core Team</p>
                         </div>
                     </div>
                 </div>
                 <div class="p-6">
                     <p class="text-gray-600 dark:text-slate-300 text-sm mb-4">
-                        Expert in modern PHP architecture, Laravel, and scalable application design.
+                        Expert in modern JavaScript architecture, React, and scalable application design.
                     </p>
                     <div class="flex space-x-2">
-                        <span class="bg-tek-blue-100 dark:bg-tek-blue-800/20 text-tek-blue-800 dark:text-tek-blue-300 text-xs py-1 px-2 rounded">Laravel</span>
+                        <span class="bg-tek-blue-100 dark:bg-tek-blue-800/20 text-tek-blue-800 dark:text-tek-blue-300 text-xs py-1 px-2 rounded">React</span>
                         <span class="bg-tek-blue-100 dark:bg-tek-blue-800/20 text-tek-blue-800 dark:text-tek-blue-300 text-xs py-1 px-2 rounded">Architecture</span>
                     </div>
                 </div>
@@ -38,16 +38,16 @@
                     <div class="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/70 to-transparent p-4">
                         <div class="text-white">
                             <h3 class="font-bold text-lg">Michael Chen</h3>
-                            <p class="text-sm text-gray-200">PHP Core Contributor</p>
+                            <p class="text-sm text-gray-200">Node.js Core Contributor</p>
                         </div>
                     </div>
                 </div>
                 <div class="p-6">
                     <p class="text-gray-600 dark:text-slate-300 text-sm mb-4">
-                        PHP core contributor and performance optimization specialist.
+                        Node.js core contributor and performance optimization specialist.
                     </p>
                     <div class="flex space-x-2">
-                        <span class="bg-tek-blue-100 dark:bg-tek-blue-800/20 text-tek-blue-800 dark:text-tek-blue-300 text-xs py-1 px-2 rounded">PHP Core</span>
+                        <span class="bg-tek-blue-100 dark:bg-tek-blue-800/20 text-tek-blue-800 dark:text-tek-blue-300 text-xs py-1 px-2 rounded">Node.js</span>
                         <span class="bg-tek-blue-100 dark:bg-tek-blue-800/20 text-tek-blue-800 dark:text-tek-blue-300 text-xs py-1 px-2 rounded">Performance</span>
                     </div>
                 </div>
@@ -66,7 +66,7 @@
                 </div>
                 <div class="p-6">
                     <p class="text-gray-600 dark:text-slate-300 text-sm mb-4">
-                        Leading authority on PHP application security and best practices.
+                        Leading authority on JavaScript application security and best practices.
                     </p>
                     <div class="flex space-x-2">
                         <span class="bg-tek-blue-100 dark:bg-tek-blue-800/20 text-tek-blue-800 dark:text-tek-blue-300 text-xs py-1 px-2 rounded">Security</span>
@@ -82,16 +82,16 @@
                     <div class="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/70 to-transparent p-4">
                         <div class="text-white">
                             <h3 class="font-bold text-lg">James Wilson</h3>
-                            <p class="text-sm text-gray-200">Symfony Maintainer</p>
+                            <p class="text-sm text-gray-200">Vue.js Maintainer</p>
                         </div>
                     </div>
                 </div>
                 <div class="p-6">
                     <p class="text-gray-600 dark:text-slate-300 text-sm mb-4">
-                        Symfony framework maintainer and distributed systems architect.
+                        Vue.js framework maintainer and distributed systems architect.
                     </p>
                     <div class="flex space-x-2">
-                        <span class="bg-tek-blue-100 dark:bg-tek-blue-800/20 text-tek-blue-800 dark:text-tek-blue-300 text-xs py-1 px-2 rounded">Symfony</span>
+                        <span class="bg-tek-blue-100 dark:bg-tek-blue-800/20 text-tek-blue-800 dark:text-tek-blue-300 text-xs py-1 px-2 rounded">Vue.js</span>
                         <span class="bg-tek-blue-100 dark:bg-tek-blue-800/20 text-tek-blue-800 dark:text-tek-blue-300 text-xs py-1 px-2 rounded">Distributed Systems</span>
                     </div>
                 </div>

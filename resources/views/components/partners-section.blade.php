@@ -4,7 +4,7 @@
         <div class="text-center mb-16">
             <h2 class="text-3xl md:text-4xl font-display font-bold mb-4">Our Partners</h2>
             <p class="text-gray-600 dark:text-slate-300 max-w-2xl mx-auto">
-                PHP Tek 2026 is made possible thanks to the support of our amazing partners.
+                JS TEK 2026 is made possible thanks to the support of our amazing partners.
             </p>
         </div>
 
@@ -99,7 +99,7 @@
 
         <div class="text-center mt-16">
             <p class="text-gray-600 dark:text-slate-300 mb-4">
-                Interested in partnering with us for PHP Tek 2026?
+                Interested in partnering with us for JS TEK 2026?
             </p>
             <a href="https://phpa.me/partner-program" class="inline-flex items-center text-tek-blue-700 dark:text-tek-blue-400 font-medium">
                 View Partnership Opportunities

@@ -1,13 +1,13 @@
-<!-- resources/views/phptek.blade.php -->
+<!-- resources/views/jstek.blade.php -->
 <!DOCTYPE html>
 <html lang="en" class="scroll-smooth">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PHP Tek 2026 - The Premier PHP Conference</title>
+    <title>JS TEK 2026 - The Premier JavaScript Conference</title>
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="{{ config('app.url') }}">
-    <meta name="keywords" content="php, web development, conference">
+    <meta name="keywords" content="javascript, js, web development, conference"
     <link rel="icon" href=" {{ asset('/favicon.ico') }}" type="image/x-icon">
     <link rel="shortcut icon" href="{{ asset('/favicon.ico') }}" type="image/x-icon">
     <link rel="shortcut icon" href="{{ asset('/favicon-16x16.png') }}" type="image/x-icon">
@@ -16,9 +16,9 @@
     <link rel="shortcut icon" href="{{ asset('/android-chrome-512x512.png') }}" type="image/x-icon">
     <link rel="shortcut icon" href="{{ asset('/apple-touch-icon.png') }}" type="image/x-icon">
     <!-- Primary Meta Tags -->
-    <meta name="title" content="PHP Tek 2026 - The Premier PHP Conference"/>
+    <meta name="title" content="JS TEK 2026 - The Premier JavaScript Conference"/>
     <meta name="description"
-          content="Join us at PHP Tek 2026, the premier PHP conference featuring expert speakers, hands-on workshops, and networking opportunities.">
+          content="Join us at JS TEK 2026, the premier JavaScript conference featuring expert speakers, hands-on workshops, and networking opportunities.">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link

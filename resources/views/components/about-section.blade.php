@@ -12,9 +12,9 @@
 
     <div class="container mx-auto px-6 relative z-10">
         <div class="text-center mb-16">
-            <h2 class="text-3xl md:text-4xl font-display font-bold mb-4">About PHP Tek 2026</h2>
+            <h2 class="text-3xl md:text-4xl font-display font-bold mb-4">About JS TEK 2026</h2>
             <p class="text-gray-600 dark:text-slate-300 max-w-2xl mx-auto">
-                The premier PHP conference focused on modern development, best practices, and emerging technologies.
+                The premier JavaScript conference focused on modern development, best practices, and emerging technologies.
             </p>
         </div>
 
@@ -31,7 +31,7 @@
                 </div>
                 <h3 class="text-xl font-bold mb-3">Expert Speakers</h3>
                 <p class="text-gray-600 dark:text-slate-300">
-                    Learn from 25+ industry experts and PHP core developers sharing their knowledge and experience.
+                    Learn from 25+ industry experts and JavaScript core developers sharing their knowledge and experience.
                 </p>
             </div>
 
@@ -47,7 +47,7 @@
                 </div>
                 <h3 class="text-xl font-bold mb-3">Hands-on Workshops</h3>
                 <p class="text-gray-600 dark:text-slate-300">
-                    Participate in intensive workshops on advanced PHP techniques, frameworks, and tooling.
+                    Participate in intensive workshops on advanced JavaScript techniques, frameworks, and tooling.
                 </p>
             </div>
 
@@ -64,7 +64,7 @@
                 </div>
                 <h3 class="text-xl font-bold mb-3">Networking Opportunities</h3>
                 <p class="text-gray-600 dark:text-slate-300">
-                    Connect with 200+ PHP developers, community leaders, and industry professionals.
+                    Connect with 200+ JavaScript developers, community leaders, and industry professionals.
                 </p>
             </div>
         </div>

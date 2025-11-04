@@ -1,12 +1,12 @@
 <img src="public/images/PHPTek2026-Logo_500x500.png" alt="PHP Tek 2026 Logo" width="200" align="center"/>
 
-# PHP Tek 2026 Conference Website
+# JS TEK 2026 Conference Website
 
-This repository contains the official website for the PHP Tek 2026 conference, a premier event for PHP and web development professionals.
+This repository contains the official website for the JS TEK 2026 conference, a premier event for JavaScript and web development professionals.
 
 ## About the Project
 
-PHP Tek 2026 is a web application built with Laravel that serves as the official website for the PHP Tek conference
+JS TEK 2026 is a web application built with Laravel that serves as the official website for the JS TEK conference
 scheduled for May 19-21, 2026. The website provides information about the conference, venue details, and will eventually
 support features like registration, speaker submissions, and schedule management.
 
@@ -39,8 +39,8 @@ working these components you are welcomed to do so.
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/phptek-2026.git
-    cd phptek-2026
+    git clone https://github.com/yourusername/jstek-2026.git
+    cd jstek-2026
     ```
 
 2. Install PHP dependencies:
@@ -74,7 +74,7 @@ working these components you are welcomed to do so.
     DB_CONNECTION=mysql
     DB_HOST=127.0.0.1
     DB_PORT=3306
-    DB_DATABASE=phptek_2026
+    DB_DATABASE=jstek_2026
     DB_USERNAME=your_username
     DB_PASSWORD=your_password
     ```
@@ -87,7 +87,7 @@ working these components you are welcomed to do so.
 
     ```bash
     mysql -u root -p
-    CREATE DATABASE phptek_2026;
+    CREATE DATABASE jstek_2026;
     exit;
     ```
 
@@ -171,4 +171,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-For questions or support, please contact the conference organizers at info@phptek.io.
+For questions or support, please contact the conference organizers at info@jstek.io.
