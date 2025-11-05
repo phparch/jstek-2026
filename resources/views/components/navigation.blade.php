@@ -1,6 +1,6 @@
 <!-- Navigation -->
 <nav
-    class="fixed top-0 left-0 right-0 z-50 bg-white/90 dark:bg-slate-900/90 backdrop-blur-sm transition-colors duration-300 border-b border-gray-200/50 dark:border-slate-700/50"
+    class="fixed top-0 left-0 right-0 z-50 bg-white/90 dark:bg-[#0a0e1a]/90 backdrop-blur-sm transition-colors duration-300 border-b border-gray-200/50 dark:border-slate-700/50"
     x-data="{
          darkMode: localStorage.getItem('darkMode') !== 'false',
          toggleTheme() {
@@ -77,7 +77,7 @@
                      x-transition:leave="transition ease-in duration-150"
                      x-transition:leave-start="opacity-100 scale-100"
                      x-transition:leave-end="opacity-0 scale-95"
-                     class="absolute top-full right-0 left-0 bg-white dark:bg-slate-800 shadow-lg rounded-b-lg p-6 space-y-4 z-40 border border-gray-200 dark:border-slate-700">
+                     class="absolute top-full right-0 left-0 bg-white dark:bg-[#141827] shadow-lg rounded-b-lg p-6 space-y-4 z-40 border border-gray-200 dark:border-slate-700">
                     <a href="#about" @click="mobileMenu = false"
                        class="block font-medium hover:text-tek-blue-700 dark:hover:text-tek-blue-400 transition-colors">About</a>
                     <a href="#speakers" @click="mobileMenu = false"
