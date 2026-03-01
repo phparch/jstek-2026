@@ -22,8 +22,8 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link
-            href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Montserrat:wght@700;800;900&display=swap"
-            rel="stylesheet">
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Montserrat:wght@700;800;900&display=swap"
+        rel="stylesheet">
     @vite(['resources/css/app.css', 'resources/js/app.js'])
     <script>
         (function () {
@@ -34,7 +34,7 @@
     </script>
 </head>
 <body
-        class="font-sans bg-white dark:bg-[#0a0e1a] text-gray-900 dark:text-slate-100 transition-colors duration-300 pt-20">
+    class="font-sans bg-white dark:bg-[#0a0e1a] text-gray-900 dark:text-slate-100 transition-colors duration-300 pt-20">
 
 <!-- Fixed navigation -->
 <x-navigation/>
@@ -45,15 +45,13 @@
 </header>
 
 <x-cfp-section/>
+<x-schedule-section/>
 <x-about-section/>
 
-{{-- <x-speakers-section/>  --}}
-
-{{-- <x-schedule-section/> --}}
 
 <x-venue-section/>
 
-        <x-partners-section/>
+<x-partners-section/>
 
 <x-registration-section/>
 
@@ -99,7 +97,11 @@
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-V6GPXQJF9F"></script>
 <script>
     window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
     gtag('js', new Date());
 
     gtag('config', 'G-V6GPXQJF9F');
